@@ -1,0 +1,14 @@
+{
+    "FAQ": "Foire aux questions",
+    "ADD_FAQ": "Ajouter une question/r\u00e9ponse",
+    "QUESTION": "Question",
+    "ANSWER": "R\u00e9ponse",
+    "QUESTION_PLACEHOLDER": "Entrez votre question",
+    "ANSWER_PLACEHOLDER": "Entrez votre r\u00e9ponse",
+    "FAQ_CONFIRM_REMOVING": "\u00cAtes-vous s\u00fbr de vouloir supprimer cette Question/R\u00e9ponse ?",
+    "FAQ_LOAD_ERROR": "Une erreur est survenue pendant le chargement de la Question/R\u00e9ponse, veuillez r\u00e9essayer",
+    "FAQ_ERROR": "Une erreur est survenue pendant la sauvegarde de la Question/R\u00e9ponse, veuillez r\u00e9essayer",
+    "FAQ_REMOVING_ERROR": "Une erreur est survenue pendant la suppression de la Question/R\u00e9ponse, veuillez r\u00e9essayer",
+    "FAQ_SUCCESSFULY_EDITED" : "La Question/R\u00e9ponse a bien \u00e9t\u00e9 sauvegard\u00e9e",
+    "FAQ_SUCCESSFULY_REMOVED": "La Question/R\u00e9ponse a bien \u00e9t\u00e9 supprim\u00e9e"
+}

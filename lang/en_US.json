@@ -1,0 +1,14 @@
+{
+    "FAQ": "Frequently Asked Questions",
+    "ADD_FAQ": "Add a Question/Answer",
+    "QUESTION": "Question",
+    "ANSWER": "Answer",
+    "QUESTION_PLACEHOLDER": "Your question",
+    "ANSWER_PLACEHOLDER": "Your answer",
+    "FAQ_CONFIRM_REMOVING": "Do you really want to remove this Question/Answer ?",
+    "FAQ_LOAD_ERROR": "An error occured while loading the Question/Answer content, please retry",
+    "FAQ_ERROR": "An error occured while saving the Question/Answer, please retry",
+    "FAQ_REMOVING_ERROR": "An error occured while removing the Question/Answer, please retry",
+    "FAQ_SUCCESSFULY_EDITED" : "The Question/Answer have been edited",
+    "FAQ_SUCCESSFULY_REMOVED": "The Question/Answer have been removed"
+}
