@@ -8,7 +8,7 @@
 5. Supprimez tous les fichiers dans le "/app/tmp/cache" de votre FTP.
 6. Installation effectuée.
 
-• Installation du plugin Shop (Via le Site) :
+• Installation du plugin MyFaq (Via le Site) :
 1. Rendez-vous à l'adresse "VotreSite/admin/plugin".
 2. Cherchez le plugin "MyFaq" dans le tableau "Plugins gratuits et achetés disponibles".
 3. Cliquez sur "Installer" pour installer le plugin sur votre site.
