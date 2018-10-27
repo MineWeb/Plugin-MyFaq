@@ -1,1 +1,23 @@
-{"name":"FAQ","admin_menus":{"GLOBAL__CUSTOMIZE":{"FAQ":{"route":"/admin/faq"}}},"navbar_routes":{"FAQ":"/faq"},"author":"Vavaballz","version":"1.1.1","apiID":5,"useEvents":false,"permissions":{"available":[],"default":{"0":[],"2":[]}},"requirements":{"CMS":"^1.0.0"}}
+{
+   "name":"HomeModal",
+   "admin_menus":{
+      "GLOBAL__ADMIN_PLUGINS":{
+         "HomeModal":{
+            "route":"/admin/homemodal"
+         }
+      }
+   },
+   "author":"Vavaballz",
+   "version":"1.1.2",
+   "useEvents":false,
+   "permissions":{
+      "available":[],
+      "default":{
+         "0":[],
+         "2":[]
+      }
+   },
+   "requirements":{
+      "CMS":"^1.0.0"
+   }
+}
