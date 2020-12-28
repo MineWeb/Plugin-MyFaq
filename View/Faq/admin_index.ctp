@@ -1,10 +1,10 @@
 <section class="content">
     <div class="col-md-12">
-        <div class="box">
-            <div class="box-header with-border">
-                <h3 class="box-title"><?= $Lang->get("FAQ"); ?></h3>
+        <div class="card">
+            <div class="card-header with-border">
+                <h3 class="card-title"><?= $Lang->get("FAQ"); ?></h3>
             </div>
-            <div class="box-body">
+            <div class="card-body">
                 <div id="error_msg"></div>
                 <button type="button" class="btn btn-large btn-block btn-success" onclick="FAQ.addFaq()">
                     <?= $Lang->get("ADD_FAQ") ?>
@@ -44,8 +44,8 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                 <h4 class="modal-title" id="add_faq_modal_label"><?= $Lang->get("ADD_FAQ") ?></h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
             </div>
             <form id="faq_form" action="">
                 <div class="modal-body">
