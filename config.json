@@ -1,5 +1,7 @@
 {
    "name":"FAQ",
+   "author":"Vavaballz",
+   "version":"1.1.3",
    "admin_menus":{
       "GLOBAL__ADMIN_PLUGINS":{
          "FAQ":{
@@ -11,8 +13,6 @@
    "navbar_routes":{
       "FAQ":"/faq"
    },
-   "author":"Vavaballz",
-   "version":"1.1.2",
    "useEvents":false,
    "permissions":{
       "available":[],
@@ -22,6 +22,6 @@
       }
    },
    "requirements":{
-      "CMS":"^1.0.0"
+      "CMS":"^1.11.0"
    }
 }
